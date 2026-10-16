@@ -22,7 +22,7 @@ Användaren kan välja algoritmerna:
 Användaren kan placera och flytta:
 
 - Grön ruta (startpunkt)
-- Röd ruta (målpunkt)
+- Blå ruta (målpunkt)
 
 ## Visualisera sökningen
 

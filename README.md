@@ -1,6 +1,6 @@
-# Quasi Route
+# Kvasirutt
 
-QuasiRoute är en desktopapplikation utvecklad i C# och WPF (Windows Presentation Foundation). Applikationen visualiserar hur sökalgoritmer söker i en 2D karta för att hitta den kortaste vägen (inte diagonalt) mellan en startpunkt och en målpunkt.
+Kvasirutt är en desktopapplikation utvecklad i C# och WPF (Windows Presentation Foundation). Applikationen visualiserar hur sökalgoritmer söker i en 2D karta för att hitta den kortaste vägen (inte diagonalt) mellan en startpunkt och en målpunkt.
 
 ## Skapa kartor
 
@@ -72,7 +72,7 @@ Applikationen frågar om användaren vill skapa en ny karta när en karta redan 
 
 ## Klona projektet och starta applikationen
 
-1. git clone <repo url>
+1. git clone https://github.com/izab2500/programmering-med-c--projekt.git
 2. gå till rotmappen: cd quasi-route 
 3. starta applikationen: dotnet run
 
